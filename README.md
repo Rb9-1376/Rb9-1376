@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hackers are the tide of the world, and in the end, they will also return to the world
 
 <!--
 **Rb9-1376/Rb9-1376** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
